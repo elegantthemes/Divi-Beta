@@ -4,17 +4,12 @@ about: If you have found a bug, please use this template to report it.
 title: 'SCOPE :: Summary'
 labels: bug
 assignees: ''
-
 ---
-
 <!-- Note about choosing a good title -->
 <!-- Please use a descriptive title that will help other people understand what this issue is about. -->
 <!-- If you are reporting a bug, please use the following format: SCOPE :: Summary -->
 <!-- SCOPE can be something like one of the following examples: -->
 <!-- Audio Module, Border Options, Settings Modal, Page Settings Bar, Etc/Other (please specify) -->
-
-
-
 
 ### Problem Description
 1. Describe what you did
