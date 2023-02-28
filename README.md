@@ -48,7 +48,7 @@ Make sure you have done the following before submitting a bug:
 5. Make sure you have included a detailed description of the issue, including steps to reproduce the issue and a video of the issue if applicable.
 
 ## Voting Up Feature Requests or Bugs 👍
-If you would like to give your opinion on a feature request or bug, simply add the thumbs up emoji reaction to the corresponding issue. This helps us prioritize which features and bugs require our attention the most. We can't guarantee that every single feature or bug will be addressed depending solely on the number of thumbs up received; however, we'll do our best to focus on the aspects with the biggest impact first, basing our future roadmap on the input given.
+If you would like to give your opinion on a feature request or bug, simply add the thumbs up emoji reaction to the corresponding issue. This helps us prioritize which features and bugs require our attention the most. We can't guarantee that every single feature or bug will be addressed depending solely on the number of thumbs up received; however, we'll do our best to focus on the aspects with the biggest impact first, basing our future [roadmap](https://devalpha.elegantthemes.com/roadmap) on the input given.
 
 Please do not submit duplicate issues for the same feature request or bug. If you would like to add additional information to an existing issue, please add a comment to the issue.
 
