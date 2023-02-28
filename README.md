@@ -17,7 +17,7 @@ Please use this Dev Alpha Phase to start planning for the future of your Divi ex
 Please wait until the Dev Beta Phase to start building production-ready extensions using the new API.
 
 ## Developer Documentation
-Developer documentation for Divi 5.0 can be found here: https://devalpha.elegantthemes.com/docs/
+Developer documentation for Divi 5.0 can be found here: https://devalpha.elegantthemes.com/
 
 ## Divi 5.0 Roadmap
 With the Divi 5.0 Roadmap, you will see what features are completed, what is in progress, and which are planned for each release phase. Please note that this roadmap is subject to change at any time.
