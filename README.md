@@ -30,10 +30,12 @@ In fact, when you update to Divi 5.0, you won’t notice much of a change from a
 
 With that said, were you hoping to see a specific feature in Divi 5.0? If so, please submit a [Feature Request issue here](https://github.com/elegantthemes/Divi-Beta/issues/new?assignees=&labels=IMPROVEMENT&template=FEATURE_REQUEST.md&title=SCOPE+%3A%3A+Summary).
 
-## Reporting Bugs
-If you run into any issues during testing, please submit a [Bug Report issue here](https://github.com/elegantthemes/Divi-Beta/issues/new?assignees=&labels=BUG&template=BUG_REPORT.md&title=SCOPE+%3A%3A+Summary).
+## Reporting Documentation Issues or Suggestions
+If you run into any issues with the documentation or have any suggestions for improving it, please submit a [Documentation Request here](https://github.com/elegantthemes/Divi-Beta/issues/new?assignees=&labels=documentation&template=DOCS_REQUEST.md&title=SCOPE+%3A%3A+Summary).
 
-And select the appropriate template for the issue you are reporting.
+
+## Reporting Bugs
+If you run into any issues during testing, please submit a detailed [Bug Report issue here](https://github.com/elegantthemes/Divi-Beta/issues/new?assignees=&labels=BUG&template=BUG_REPORT.md&title=SCOPE+%3A%3A+Summary). We will do our best to address the issue as soon as possible and will keep you updated on the progress or any questions we may have.
 
 ## Before Submitting A Bug
 Make sure you have done the following before submitting a bug:
