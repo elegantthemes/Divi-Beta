@@ -2,7 +2,7 @@
 name: Docs request
 about: Suggest an idea for documentation
 title: 'SCOPE :: Summary'
-labels: enhancement
+labels: documentation
 assignees: ''
 ---
 <!-- Note about choosing a good title -->
