@@ -1,13 +1,13 @@
-# Welcome To the Divi Alpha/Beta Program
+# Welcome To the Divi Beta Program
 
-This empty public repo is used to track bugs during Divi alpha/beta testing.
+This empty public repo is used to track bugs during Divi alpha/beta testing phases.
 
 ## Divi 5.0 Release Phases
 You can read more about the Divi 5.0 annoucement here: https://www.elegantthemes.com/blog/general-news/the-future-of-divi
 
 You can read more about the Divi Release Phases here: https://devalpha.elegantthemes.com/docs/getting-started/divi-5-release-phases
 
-## Current Divi 5.0 Release Phase - Divi 5.0.0-dev-alpha
+## Current Divi 5.0 Release Phase - Dev Alpha (5.0.0-dev-alpha.x)
 This is an unfinished version of the Divi 5.0 API. It will give developers a glimpse into the future of Divi so that they can start making plans on how their current Divi extensions will need to be adapted and provide an opportunity to share feedback on the new API, code examples, docs, express any API wants or needs and share their overall experience.
 
 It's important to be clear that the API is not in a state that is considered stable or ready for developers to build production-ready extensions. It is a work in progress and will be subject to change as we move through the Dev Alpha Phase, especially as we hear feedback from developers.
@@ -24,6 +24,9 @@ With the Divi 5.0 Roadmap, you will see what features are completed, what is in 
 
 You can view the Divi 5.0 Roadmap here:
 https://devalpha.elegantthemes.com/roadmap
+
+## Have a question?
+Ask in the Divi Dev Alpha Discord channel, only members of the Divi Beta program will be able to access this channel, and you can ask questions there. You can request access to the program [here](#accessing-the-alphabeta-files---join-the-divi-beta-program).
 
 ## Reporting Feature Requests
 In fact, when you update to Divi 5.0, you won’t notice much of a change from a UI perspective. We aren’t adding a bunch of new features in Divi 5.0. That’s not the goal. At first glance, the Divi Builder is going to look and function the same way that it does now (with maybe a few cool new things snuck in here and there), but everything behind the scenes is going to be vastly improved, and those improvements will manifest themselves in several significant ways.
@@ -52,8 +55,9 @@ If you would like to give your opinion on a feature request or bug, simply add t
 
 Please do not submit duplicate issues for the same feature request or bug. If you would like to add additional information to an existing issue, please add a comment to the issue.
 
-## Accessing The Beta
 
-In order to access the Beta, currently in Developer Alpha phase, you will need to be a member of the Elegant Themes Developer Alpha Program. You can request access to the program here:
+## Accessing The Alpha/Beta files - Join the Divi Beta Program
+
+In order to access the Divi Alpha/Beta files, currently in Dev Alpha phase, you will need to be a member of the Elegant Themes Divi Beta Program. You can request access to the program here:
 
 https://forms.gle/dTBk2jmK94M6iMwY7
