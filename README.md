@@ -5,7 +5,7 @@ This empty public repo is used to track bugs during Divi alpha/beta testing phas
 ## Divi 5.0 Release Phases
 You can read more about the Divi 5.0 annoucement here: https://www.elegantthemes.com/blog/general-news/the-future-of-divi
 
-You can read more about the Divi Release Phases here: https://devalpha.elegantthemes.com/docs/getting-started/divi-5-release-phases
+You can read more about the Divi Release Phases here: https://devalpha.elegantthemes.com/docs/introducing-divi-5/divi-5-release-phases
 
 ## Current Divi 5.0 Release Phase - Public Alpha (5.0.0-public-alpha.x)
 We will start the public alpha with a “lite” version of Divi 5.0. This will be a fully-functional version of Divi 5.0, but it will be lacking some of Divi's current features and modules.
